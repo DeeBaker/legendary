@@ -3,14 +3,14 @@
 /***************images***************/
 #logo-img {
   background: url('../images/GIMPShowcase%20art%20HQ%202016.png') no-repeat;
-    height: 185px;
+    height: 165px;
     width: 150px;  
   margin:  0;
 }
 #legendary-img{
-  background: url('../images/legendary.png') no-repeat;
-    height: 185px;
-    width: 620px;  
+  background: url('../images/legendary.png') no-repeat;    
+    height: 165px;
+    width: 510px;  
   margin:  0;
 }
 /***************Text***************/
