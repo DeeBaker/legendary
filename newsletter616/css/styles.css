@@ -1,0 +1,26 @@
+
+
+/***************images***************/
+#logo-img {
+  background: url('../images/GIMPShowcase%20art%20HQ%202016.png') no-repeat;
+    height: 300px;
+    width: 300px;  
+  margin:  0;
+}
+#legendary-img{
+  background: url('../images/13221644_10154201650037244_5022053328874817189_n.jpg') no-repeat;
+    height: 300px;
+    width: 1200px;  
+  margin:  0;
+}
+/***************Text***************/
+.link-buttons{
+    background: #C5B3CB;
+}
+.border-round{
+    border-radius: 8px;
+}
+.para-padding{
+    padding-left: 20px;
+    padding-right: 20px;
+}
