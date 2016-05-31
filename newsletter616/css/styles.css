@@ -15,7 +15,10 @@
 }
 /***************Text***************/
 .link-buttons{
-    background: #C5B3CB;
+    background: #C5B3CB;    
+}
+.section-headers{
+    width: 710px; 
 }
 .para-padding{
     padding-left: 20px;
