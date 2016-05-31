@@ -41,6 +41,9 @@
 #next-wk-cont-margin{
     margin-top: 106px;
 }
+.list-no-markers{
+    list-style-type: none;
+}
 /*********below the fold********/
 #buy-tickets{
     
